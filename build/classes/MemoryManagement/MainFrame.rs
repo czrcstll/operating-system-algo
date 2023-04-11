@@ -1,0 +1,17 @@
+memorymanagement.MainFrame
+memorymanagement.MainFrame$2
+memorymanagement.MainFrame$3
+memorymanagement.MainFrame$10
+memorymanagement.MainFrame$4
+memorymanagement.MainFrame$11
+memorymanagement.MainFrame$5
+memorymanagement.MainFrame$12
+memorymanagement.MainFrame$6
+memorymanagement.MainFrame$13
+memorymanagement.MainFrame$7
+memorymanagement.MainFrame$14
+memorymanagement.MainFrame$8
+memorymanagement.MainFrame$15
+memorymanagement.MainFrame$9
+memorymanagement.MainFrame$16
+memorymanagement.MainFrame$1
